@@ -2,8 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Ashwin A Murali [https://github.com/ashwin271]
+2. Dhanush R S [https://github.com/Dhanushrs2173]
+3. Deventhu J K  [https://github.com/DEVENTHU]
+4. Advaitha S Das  [https://github.com/AdvaithaSanal]
 ## Team Id
 Team id here
 ## Link to product walkthrough
